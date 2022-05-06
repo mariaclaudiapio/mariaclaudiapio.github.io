@@ -12,7 +12,7 @@ body {
 .header-wrapper {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(-45deg, #002861, #2D4B74, #578FDE);
+    background: linear-gradient(-45deg, #002861, #2D4B74, #436EAB, #578FDE);
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
@@ -294,7 +294,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(-45deg, #b53f53, #dda3af, #54B689, #dec08e);
+    background: linear-gradient(-45deg, #002861, #2D4B74, #436EAB, #578FDE);
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
